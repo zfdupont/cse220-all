@@ -1,9 +1,6 @@
 [submodule "cse220-hw0-zfdupont"]
 	path = cse220-hw0-zfdupont
 	url = git@github.com:joy-courses/cse220-hw0-zfdupont.git
-[submodule "cse220-hw1-zfdupont"]
-	path = cse220-hw1-zfdupont
-	url = git@github.com:joy-courses/cse220-hw1-zfdupont.git
 [submodule "cse220-hw2-zfdupont"]
 	path = cse220-hw2-zfdupont
 	url = git@github.com:joy-courses/cse220-hw2-zfdupont.git
